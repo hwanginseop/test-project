@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-새 파일",
+      "appliesTo": "새 파일",
+      "type": "launch"
+    }
+  ]
+}
